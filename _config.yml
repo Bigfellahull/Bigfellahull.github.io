@@ -1,0 +1,13 @@
+# Site settings
+title: James Hull
+email: bigfellahull@hotmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  James Hull on an assortment of topics.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jh.gs" # the base hostname & protocol for your site
+twitter_username: bigfellahull
+github_username:  bigfellahull
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
