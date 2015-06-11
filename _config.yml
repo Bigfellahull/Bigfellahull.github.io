@@ -1,13 +1,16 @@
 # Site settings
 title: James Hull
+header-img: img/home-bg.jpg
 email: bigfellahull@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  James Hull on an assortment of topics.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jh.gs" # the base hostname & protocol for your site
-twitter_username: bigfellahull
-github_username:  bigfellahull
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://jh.gs"
+twitter_username: Bigfellahull
+github_username:  Bigfellahull
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
