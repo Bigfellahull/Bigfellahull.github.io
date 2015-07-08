@@ -34,8 +34,8 @@ header-img: "img/old-school-programmer-bg.jpg"
 
 <p>Simply porting the code was pretty straight forward. However it did make me realise that there is so much that I don't know. So I've now moved on to something a little more ambitious, complicated and challenging. I am really going to make an effort to try and research how more competent and experienced old school C developers do things and apply their wisdom. I'm now writing my own 2D software renderer to really get an understanding of exactly how my game is spit out onto the screen. Yikes that one is much harder and for future blog posts!</p>
 
-<p>All in all, this was good way to kill some free time over a couple of weeks and I really enjoyed it. There is something about making games that you just don't get when programming other software. I mean, writing a wicked sweet RESTful API, or a slick single page app is pretty cool but compared to controlling a sprite on the screen with my Xbox controller - whilst the controller rumbles in my hand - is pretty fucking awesome. It almost makes you jealous of professional games programmers despite all the horror stories... Almost.</p>
+<p>All in all, this was good way to kill some free time over a couple of weeks and I really enjoyed it. There is something about making games that you just don't get when programming other software. I mean, writing a wicked sweet RESTful API, or a slick single page app is pretty cool but controlling a sprite on the screen with my Xbox controller - whilst the controller rumbles in my hand - is pretty fucking awesome. It almost makes you jealous of professional games programmers despite all the horror stories... Almost.</p>
 
 <h2 class="section-heading">TL;DR</h2>
 
-<p>I made a game. It's probably shit. But it was fun, and has encouraged me to continue with my journey or learning C++. <a href="https://github.com/Bigfellahull/2dShooter">Check out the code on GitHub</a>.</p>
+<p>I made a game. It's probably shit. But it was fun, and has encouraged me to continue with my journey of learning C++. <a href="https://github.com/Bigfellahull/2dShooter">Check out the code on GitHub</a>.</p>
