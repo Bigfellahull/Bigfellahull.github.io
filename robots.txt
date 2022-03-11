@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jh.gs/sitemap.xml
